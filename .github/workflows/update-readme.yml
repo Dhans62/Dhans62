@@ -51,10 +51,14 @@ jobs:
 
             let list = '';
             for (const r of pinned) {
-              list += `**[${r.name}](${r.url})**${r.description ? ' — ' + r.description : ''}\n\n`;
+              list += `<a href="${r.url}"><img src="https://img.shields.io/badge/${encodeURIComponent(r.name)}-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>\n`;
+              if (r.description) list += `<sub>${r.description}</sub>\n`;
+              list += `<br/><br/>\n\n`;
             }
             for (const r of recent) {
-              list += `[${r.name}](${r.html_url})${r.description ? ' — ' + r.description : ''}\n\n`;
+              list += `<a href="${r.html_url}"><img src="https://img.shields.io/badge/${encodeURIComponent(r.name)}-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>\n`;
+              if (r.description) list += `<sub>${r.description}</sub>\n`;
+              list += `<br/><br/>\n\n`;
             }
 
             let readme = fs.readFileSync('README.md', 'utf8');
