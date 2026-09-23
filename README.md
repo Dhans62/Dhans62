@@ -8,46 +8,27 @@
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/8892B0/user-male-circle.png" width="18"/> About
+<img src="https://img.icons8.com/ios-filled/20/8892B0/user-male-circle.png" width="18"/> **About**
+
 I'm a student who codes as a hobby — mostly exploring **software development**, **IoT** (Arduino, ESP32, STM32), and **mobile app development** with Flutter.
 
-### <img src="https://img.icons8.com/ios-filled/20/8892B0/source-code.png" width="18"/> Projects
+---
+
+<img src="https://img.icons8.com/ios-filled/20/8892B0/source-code.png" width="18"/> **Projects**
 
 <details>
 <summary><b>View projects</b></summary>
 <br/>
 
 <!-- REPO-LIST:START -->
-<a href="https://github.com/Dhans62/AFKBOTMC"><img src="https://img.shields.io/badge/AFKBOTMC-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/TugasTik"><img src="https://img.shields.io/badge/TugasTik-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/mkstruct"><img src="https://img.shields.io/badge/mkstruct-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><sub>tes</sub>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/PowerPilot"><img src="https://img.shields.io/badge/PowerPilot-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/converter-teks-to-latin"><img src="https://img.shields.io/badge/converter--teks--to--latin-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/trigger-wheel-generator"><img src="https://img.shields.io/badge/trigger--wheel--generator-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
-<a href="https://github.com/Dhans62/tes"><img src="https://img.shields.io/badge/tes-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><br/>
-
 <!-- REPO-LIST:END -->
 
 </details>
 
-### <img src="https://img.icons8.com/ios-filled/20/8892B0/code.png" width="18"/> Tech Stack
+---
+
+<img src="https://img.icons8.com/ios-filled/20/8892B0/code.png" width="18"/> **Tech Stack**
+
 <div align="center">
 
 
@@ -78,7 +59,10 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 
 </div>
 
-### <img src="https://img.icons8.com/ios-filled/20/8892B0/combo-chart.png" width="18"/> Activity
+---
+
+<img src="https://img.icons8.com/ios-filled/20/8892B0/combo-chart.png" width="18"/> **Activity**
+
 <div align="center">
 
 <picture>
