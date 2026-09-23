@@ -18,21 +18,30 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <br/>
 
 <!-- REPO-LIST:START -->
-**[AFKBOTMC](https://github.com/Dhans62/AFKBOTMC)**
+<a href="https://github.com/Dhans62/AFKBOTMC"><img src="https://img.shields.io/badge/AFKBOTMC-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-**[TugasTik](https://github.com/Dhans62/TugasTik)**
+<a href="https://github.com/Dhans62/TugasTik"><img src="https://img.shields.io/badge/TugasTik-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-**[mkstruct](https://github.com/Dhans62/mkstruct)**
+<a href="https://github.com/Dhans62/mkstruct"><img src="https://img.shields.io/badge/mkstruct-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-[Dhans62](https://github.com/Dhans62/Dhans62) — tes
+<a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<sub>tes</sub>
+<br/><br/>
 
-[PowerPilot](https://github.com/Dhans62/PowerPilot)
+<a href="https://github.com/Dhans62/PowerPilot"><img src="https://img.shields.io/badge/PowerPilot-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-[converter-teks-to-latin](https://github.com/Dhans62/converter-teks-to-latin)
+<a href="https://github.com/Dhans62/converter-teks-to-latin"><img src="https://img.shields.io/badge/converter-teks-to-latin-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-[trigger-wheel-generator](https://github.com/Dhans62/trigger-wheel-generator)
+<a href="https://github.com/Dhans62/trigger-wheel-generator"><img src="https://img.shields.io/badge/trigger-wheel-generator-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
-[tes](https://github.com/Dhans62/tes)
+<a href="https://github.com/Dhans62/tes"><img src="https://img.shields.io/badge/tes-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a><br/>
+<br/><br/>
 
 <!-- REPO-LIST:END -->
 
