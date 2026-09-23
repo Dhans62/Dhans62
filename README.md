@@ -8,23 +8,25 @@
 
 ---
 
-### About
-I'm a student who codes as a hobby — mostly exploring **software development**, **IoT** (Arduino, ESP32, STM32), and **mobile app development** with Flutter. This is where I keep my personal projects and experiments.
+### <img src="https://img.icons8.com/ios-filled/20/8892B0/user-male-circle.png" width="18"/> About
+I'm a student who codes as a hobby — mostly exploring **software development**, **IoT** (Arduino, ESP32, STM32), and **mobile app development** with Flutter.
 
-### Featured Projects
+### <img src="https://img.icons8.com/ios-filled/20/8892B0/source-code.png" width="18"/> Projects
 
-**[DSPROJEK](https://github.com/Dhans62/DSPROJEK)**
-A Flutter-based app for controlling ignition and monitoring live data on a fuel-injected motor.
+<!-- REPO-LIST:START -->
+<!-- REPO-LIST:END -->
 
-**[AFKBOTMC](https://github.com/Dhans62/AFKBOTMC)**
-An automation tool/script for bots on Minecraft Java Edition servers.
-
-### Tech Stack
+### <img src="https://img.icons8.com/ios-filled/20/8892B0/code.png" width="18"/> Tech Stack
 <div align="center">
 
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1F2A44?style=for-the-badge&logo=cplusplus&logoColor=8892B0)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-1F2A44?style=for-the-badge&logo=python&logoColor=8892B0)
 
 
 
@@ -45,14 +47,11 @@ An automation tool/script for bots on Minecraft Java Edition servers.
 
 </div>
 
-### GitHub Stats
+### <img src="https://img.icons8.com/ios-filled/20/8892B0/combo-chart.png" width="18"/> GitHub Stats
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44&include_all_commits=true&count_private=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dhans62&hide_border=true&bg_color=00000000&title_color=1F2A44&text_color=24292f&icon_color=1F2A44&include_all_commits=true&count_private=false">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dhans62&hide_border=true&include_all_commits=true&count_private=false">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&layout=compact&include_all_commits=true&count_private=false" />
 
 </div>
 
