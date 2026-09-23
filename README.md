@@ -13,24 +13,14 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 
 ### <img src="https://img.icons8.com/ios-filled/20/8892B0/source-code.png" width="18"/> Projects
 
+<details>
+<summary><b>View projects</b></summary>
+<br/>
+
 <!-- REPO-LIST:START -->
-**[AFKBOTMC](https://github.com/Dhans62/AFKBOTMC)**
-
-**[TugasTik](https://github.com/Dhans62/TugasTik)**
-
-**[mkstruct](https://github.com/Dhans62/mkstruct)**
-
-[Dhans62](https://github.com/Dhans62/Dhans62) — tes
-
-[PowerPilot](https://github.com/Dhans62/PowerPilot)
-
-[converter-teks-to-latin](https://github.com/Dhans62/converter-teks-to-latin)
-
-[trigger-wheel-generator](https://github.com/Dhans62/trigger-wheel-generator)
-
-[tes](https://github.com/Dhans62/tes)
-
 <!-- REPO-LIST:END -->
+
+</details>
 
 ### <img src="https://img.icons8.com/ios-filled/20/8892B0/code.png" width="18"/> Tech Stack
 <div align="center">
@@ -68,6 +58,7 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44&include_all_commits=true&count_private=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&layout=compact&include_all_commits=true&count_private=false" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Dhans62&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
