@@ -18,21 +18,30 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <br/>
 
 <!-- REPO-LIST:START -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=AFKBOTMC&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/AFKBOTMC"><img src="https://img.shields.io/badge/AFKBOTMC-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=TugasTik&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/TugasTik"><img src="https://img.shields.io/badge/TugasTik-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=mkstruct&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/mkstruct"><img src="https://img.shields.io/badge/mkstruct-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=Dhans62&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><sub>tes</sub>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=PowerPilot&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/PowerPilot"><img src="https://img.shields.io/badge/PowerPilot-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=converter-teks-to-latin&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/converter-teks-to-latin"><img src="https://img.shields.io/badge/converter--teks--to--latin-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=trigger-wheel-generator&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/trigger-wheel-generator"><img src="https://img.shields.io/badge/trigger--wheel--generator-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhans62&repo=tes&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>
+<a href="https://github.com/Dhans62/tes"><img src="https://img.shields.io/badge/tes-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<br/><br/>
 
 <!-- REPO-LIST:END -->
 
