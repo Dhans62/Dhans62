@@ -31,7 +31,6 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <br/><br/>
 
 <a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
-<br/><sub>tes</sub>
 <br/><br/>
 
 <a href="https://github.com/Dhans62/PowerPilot"><img src="https://img.shields.io/badge/PowerPilot-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
