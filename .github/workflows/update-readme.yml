@@ -29,6 +29,8 @@ jobs:
                     nodes {
                       ... on Repository {
                         name
+                        url
+                        description
                       }
                     }
                   }
@@ -47,12 +49,16 @@ jobs:
             });
             const recent = repos.filter(r => !r.private && !r.fork && !pinnedNames.has(r.name)).slice(0, 5);
 
-            const card = (name) =>
-              `<img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${name}&hide_border=true&bg_color=00000000&title_color=8892B0&text_color=c9d1d9&icon_color=1F2A44" /><br/>\n\n`;
+            const escapeBadge = (s) => encodeURIComponent(s.replace(/-/g, '--').replace(/_/g, '__'));
+
+            const card = (name, url, desc) =>
+              `<a href="${url}"><img src="https://img.shields.io/badge/${escapeBadge(name)}-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>\n` +
+              (desc ? `<br/><sub>${desc}</sub>\n` : '') +
+              `<br/><br/>\n\n`;
 
             let list = '';
-            for (const r of pinned) list += card(r.name);
-            for (const r of recent) list += card(r.name);
+            for (const r of pinned) list += card(r.name, r.url, r.description);
+            for (const r of recent) list += card(r.name, r.html_url, r.description);
 
             let readme = fs.readFileSync('README.md', 'utf8');
             readme = readme.replace(
