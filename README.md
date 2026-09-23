@@ -14,6 +14,22 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 ### <img src="https://img.icons8.com/ios-filled/20/8892B0/source-code.png" width="18"/> Projects
 
 <!-- REPO-LIST:START -->
+**[AFKBOTMC](https://github.com/Dhans62/AFKBOTMC)**
+
+**[TugasTik](https://github.com/Dhans62/TugasTik)**
+
+**[mkstruct](https://github.com/Dhans62/mkstruct)**
+
+[Dhans62](https://github.com/Dhans62/Dhans62) — tes
+
+[PowerPilot](https://github.com/Dhans62/PowerPilot)
+
+[converter-teks-to-latin](https://github.com/Dhans62/converter-teks-to-latin)
+
+[trigger-wheel-generator](https://github.com/Dhans62/trigger-wheel-generator)
+
+[tes](https://github.com/Dhans62/tes)
+
 <!-- REPO-LIST:END -->
 
 ### <img src="https://img.icons8.com/ios-filled/20/8892B0/code.png" width="18"/> Tech Stack
