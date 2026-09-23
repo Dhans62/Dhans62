@@ -18,6 +18,22 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <br/>
 
 <!-- REPO-LIST:START -->
+**[AFKBOTMC](https://github.com/Dhans62/AFKBOTMC)**
+
+**[TugasTik](https://github.com/Dhans62/TugasTik)**
+
+**[mkstruct](https://github.com/Dhans62/mkstruct)**
+
+[Dhans62](https://github.com/Dhans62/Dhans62) — tes
+
+[PowerPilot](https://github.com/Dhans62/PowerPilot)
+
+[converter-teks-to-latin](https://github.com/Dhans62/converter-teks-to-latin)
+
+[trigger-wheel-generator](https://github.com/Dhans62/trigger-wheel-generator)
+
+[tes](https://github.com/Dhans62/tes)
+
 <!-- REPO-LIST:END -->
 
 </details>
