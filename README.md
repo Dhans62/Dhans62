@@ -42,10 +42,10 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <a href="https://github.com/Dhans62/trigger-wheel-generator"><img src="https://img.shields.io/badge/trigger--wheel--generator-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
-<a href="https://github.com/Dhans62/tes"><img src="https://img.shields.io/badge/tes-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<a href="https://github.com/Dhans62/Kalkulator-Bunga"><img src="https://img.shields.io/badge/Kalkulator--Bunga-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
-<a href="https://github.com/Dhans62/wedding-invitation"><img src="https://img.shields.io/badge/wedding--invitation-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<a href="https://github.com/Dhans62/DHAN-ESP-TOOL"><img src="https://img.shields.io/badge/DHAN--ESP--TOOL-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
 <!-- REPO-LIST:END -->
