@@ -33,10 +33,10 @@ I'm a student who codes as a hobby — mostly exploring **software development**
 <a href="https://github.com/Dhans62/image-add-txt"><img src="https://img.shields.io/badge/image--add--txt-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
-<a href="https://github.com/Dhans62/XII-5-MAXIMA"><img src="https://img.shields.io/badge/XII--5--MAXIMA-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
-<a href="https://github.com/Dhans62/Dhans62"><img src="https://img.shields.io/badge/Dhans62-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
+<a href="https://github.com/Dhans62/XII-5-MAXIMA"><img src="https://img.shields.io/badge/XII--5--MAXIMA-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
 <br/><br/>
 
 <a href="https://github.com/Dhans62/converter-teks-to-latin"><img src="https://img.shields.io/badge/converter--teks--to--latin-1F2A44?style=for-the-badge&logo=github&logoColor=8892B0"/></a>
